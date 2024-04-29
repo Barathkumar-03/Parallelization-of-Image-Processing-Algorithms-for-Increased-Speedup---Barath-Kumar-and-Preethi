@@ -1,0 +1,1 @@
+# Parallelization-of-Image-Processing-Algorithms-for-Increased-Speedup---Barath-Kumar-and-Preethi
